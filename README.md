@@ -1,6 +1,6 @@
 ## GOCD 教程
 1. 下载路径：https://www.gocd.org/download/#osx
-2. 启动命令：
+2. 启动命令：test
 
      PATH=$PATH:/usr/local/bin open /Applications/Go\ Server.app
      
